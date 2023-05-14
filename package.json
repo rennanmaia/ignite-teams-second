@@ -1,0 +1,28 @@
+{
+  "name": "ignite-teams",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@tsconfig/react-native": "2.0.3",
+    "@types/jest": "29.5.0",
+    "@types/react": "18.0.29",
+    "@types/react-test-renderer": "18.0.0",
+    "babel-plugin-module-resolver": "5.0.0",
+    "expo": "48.0.9",
+    "react": "18.2.*",
+    "react-dom": "18.2.*",
+    "react-native": "0.71.4",
+    "react-native-web": "0.19.*",
+    "react-scripts": "3.3.0",
+    "typescript": "5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
